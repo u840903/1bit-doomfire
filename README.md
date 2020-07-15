@@ -1,2 +1,2 @@
-# 1bit-doomfire
+# 1bit Doomfire
 Javascript implementation of doomfire using only black and white.
