@@ -1,4 +1,3 @@
-
 // Workaround until top-level await is a thing.
 (async function () {
 
